@@ -28,6 +28,8 @@ This file is part of the QGROUNDCONTROL project
  *
  */
 
+// Comentario de prueba para un commit desde Qt Creator
+
 #include <QtGlobal>
 #include <QApplication>
 #include <QSslSocket>
